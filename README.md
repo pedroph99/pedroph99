@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I'm [Your Name], a technology enthusiast passionate about [areas of interest]. My journey is a constant quest for knowledge and innovation.
+I'm Pedro Mello, a technology enthusiast passionate about web development. My journey is a constant quest for knowledge and innovation.
 
 - 💻 Python, JS, C Developer.
 - 🌱 Learning and growing every day.
