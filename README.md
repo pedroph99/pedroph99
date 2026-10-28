@@ -32,6 +32,10 @@ software and hardware.
 - Studying Computer Engineering at POLI/UPE
 - Improving my knowledge of software architecture and distributed systems
 
+## Contribution activity
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-mello-377bb61b3/)
