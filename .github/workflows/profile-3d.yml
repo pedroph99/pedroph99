@@ -35,5 +35,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update 3D contribution graph"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
