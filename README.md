@@ -26,6 +26,15 @@ software and hardware.
 | [Credit Card Fraud Detection](https://github.com/pedroph99/IA_CREDITCARD_FRAUD) | Classification, data preprocessing and model evaluation with Python |
 | [Embedded Systems](https://github.com/pedroph99/sistemas_embarcados) | STM32 projects involving GPIO, interrupts and software PWM |
 
+## Private professional projects
+
+I have contributed to private production projects at Voicecorp, including
+**TroncoSIP**, **VoiceHub**, **VoiceCloud** and other internal platforms.
+
+My work across these projects includes backend development, system integrations,
+CI/CD and the maintenance of telecommunications and internal business systems.
+Source code and implementation details are private.
+
 ## Currently
 
 - Working as a Junior Software Engineer
